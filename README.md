@@ -1,2 +1,2 @@
 # Data-Science-Notebook
-A notebook for data science using python.
+A notebook for data science with python.
